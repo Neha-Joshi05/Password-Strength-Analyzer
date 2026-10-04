@@ -24,7 +24,7 @@
 
 ## 🌐 Live Demo
 
-🔗 **[password-analyzer.streamlit.app]()**
+🔗 **[password-analyzer.streamlit.app](https://password-strength-analyzer-zyu7pqn4cuxj4bu9nf3pbz.streamlit.app/)**
 
 ---
 
